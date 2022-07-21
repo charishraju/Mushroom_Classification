@@ -1,2 +1,2 @@
 # Mushroom_Classification
-A machinelearnign model which predics if a mushroom is edible or not
+A machine learning model which predicts if a mushroom is edible or not.
